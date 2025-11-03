@@ -1,0 +1,18 @@
+body{
+    background-color:black;
+     font-family: "Noto Serif", serif;
+}
+
+
+p {
+    color: rgba(132, 0, 0, 0.492);
+}
+.cor {
+    color:rgb(0, 0, 82);
+}
+.cores{ 
+    color: rgb(131, 1, 1);
+}
+.corunica {
+    color:rgb(0, 174, 0);
+}
